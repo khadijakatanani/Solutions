@@ -37,5 +37,3 @@ poem = """
     Is as beautiful as you..."""
 
 print(poem)
-
-# difference
