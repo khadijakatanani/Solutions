@@ -12,3 +12,4 @@ print("Hello everybody") # greeting people, in-line comment
 # multiply the number of cakes with the number of guests
 print(2*8)
 
+
